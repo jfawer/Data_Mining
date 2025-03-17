@@ -1,2 +1,39 @@
-/.ipynb_checkpoints
-/.venv
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environments
+.env
+.env.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
