@@ -37,3 +37,9 @@ coverage.xml
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+# Database files
+*.db
+
+# CSV files
+*.csv
